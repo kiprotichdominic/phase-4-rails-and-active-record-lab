@@ -7,4 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-Student.create(first_name: "Kiprotich",last_name:"Korir",grade:10)
+# Student.create(first_name: "Kipkorir",last_name:"Lameck",grade:20)
+# Student.create(first_name: "Loise",last_name:"Kirwa",grade:20)
+# Student.create(first_name: "Maritim",last_name:"Joan",grade:20)
